@@ -1,7 +1,7 @@
 {
   "name": "test-template-npx",
-  "version": "0.0.1",
-  "description": "Text cli",
+  "version": "0.1.0",
+  "description": "on peut modifier le dossier courant",
   "main": "index.js",
   "type": "module",
   "bin": {
